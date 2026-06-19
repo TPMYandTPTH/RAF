@@ -289,13 +289,6 @@
   },
   {
    "Positions": "Content Moderator",
-   "Language": "Thai",
-   "Location": "Bangkok",
-   "Evergreen title": "Content Moderator - Thai - Bangkok",
-   "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/49721\/content-moderator---thai---bangkok\/job?mode=job&iis=RAF&iisn="
-  },
-  {
-   "Positions": "Content Moderator",
    "Language": "Vietnamese",
    "Location": "Bangkok",
    "Evergreen title": "Content Moderator - Vietnamese - Bangkok",
@@ -497,13 +490,6 @@
    "Evergreen title": "Customer Service Advisor  - Vietnamese - Bangkok",
    "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/49548\/interpreter---vietnamese---work-from-home\/job?mode=job&iis=RAF&iisn="
   },  
-   {
-   "Positions": "Customer Service Representative",
-   "Language": "Thai",
-   "Location": "Bangkok",
-   "Evergreen title": "Customer Service Representative - Thai - Bangkok (เจ้าหน้าที่ให้บริการลูกค้า)",
-   "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/61858\/customer-service-representative---thai---bangkok\/job?mode=job&iis=RAF&iisn="
-  },
   {
    "Positions": "Procurement Specialist",
    "Language": "Japanese",
@@ -594,13 +580,6 @@
     "Location": "Work From Home",
     "Evergreen title": "Customer Success Specialist - Cantonese - (Work from Home)",
     "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/49437\/customer-success-specialist---cantonese---kl\/job?mode=job&iis=RAF&iisn="
-  }, 
-  {
-    "Positions": "Telesales Executive- Thai- Bangkok",
-    "Language": "Thai",
-    "Location": "Bangkok",
-    "Evergreen title": "Customer Success Specialist - Cantonese - (Work from Home)",
-    "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/40195\/telesales-executive---thai-speaker\/job?mode=job&iis=RAF&iisn="
   },  
   {
     "Positions": "Gaming Support Representative",
@@ -780,14 +759,14 @@
   {
     "Positions": "Assisted Sales Advisor",
     "Language": "Malay",
-   "Location": "Penang",
+    "Location": "Penang",
     "Evergreen title": "Assisted Sales Advisor - Malay- Penang",
     "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/42693/assisted-sales-advisor---english-%26-malay\/job?mode=job&iis=RAF&iisn="
   },    
   {
     "Positions": "Content Moderator",
     "Language": "Khmer",
-   "Location": "Penang",
+    "Location": "Penang",
     "Evergreen title": "Content Moderator - Khmer - Penang",
     "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/49685/content-moderator---khmer---penang\/job?mode=job&iis=RAF&iisn="
   },  
@@ -799,16 +778,16 @@
    "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/80932\/customer-service-representative-%28non-voice%29-–-cantonese-speaker\/job?mode=job&iis=RAF&iisn="
   },  
   {
-    "Positions": "Inside Sales Representative",
+    "Positions": "Inside Sales Representative -  (Bilingual)",
     "Language": "Thai",
-   "Location": "Bangkok",
+    "Location": "Bangkok",
     "Evergreen title": "Inside Sales Representative - Thai - Bangkok",
     "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/83898/inside-sales-representative-%28technical-b2b---industrial-solutions%29---vietnamese---bangkok\/job?mode=job&iis=RAF&iisn="
   },  
   {
     "Positions": "Inside Sales Representative",
     "Language": "Vietnamese",
-   "Location": "Bangkok",
+    "Location": "Bangkok",
     "Evergreen title": "Inside Sales Representative - Vietnamese - Bangkok",
     "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/83902/inside-sales-representative-%28technical-b2b---industrial-solutions%29---thai-bilingual---bangkok\/job?mode=job&iis=RAF&iisn="
   },  
@@ -818,5 +797,19 @@
    "Location": "Bangkok",
    "Evergreen title": "Inside Sales Representative - Mandarin - Bangkok",
    "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/83901\/inside-sales-representative-%28technical-b2b---industrial-solutions%29---mandarin-speaker---bangkok\/job?mode=job&iis=RAF&iisn="
+  },  
+  {
+    "Positions": "Customer Service Representative - Bilingual",
+    "Language": "Vietnamese",
+    "Location": "Bangkok",
+    "Evergreen title": "Inside Sales Representative - Vietnamese - Bangkok",
+    "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/64381/customer-service-support--thai\/job?mode=job&iis=RAF&iisn="
+  },  
+  {
+   "Positions": "Customer Service Representative - Mono Thai",
+   "Language": "Mandarin",
+   "Location": "Bangkok",
+   "Evergreen title": "Inside Sales Representative - Mandarin - Bangkok",
+   "Evergreen link": "https:\/\/careerseng-teleperformance.icims.com\/jobs\/70006\/customer-service-representative---thai--bangkok\/job?mode=job&iis=RAF&iisn="
   }
  ]
