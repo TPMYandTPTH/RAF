@@ -746,20 +746,20 @@ document.addEventListener('DOMContentLoaded', function() {
     function updateSocialMediaLinks() {
         const socialLinks = {
             'kuala lumpur': {
-                facebook: 'https://www.facebook.com/TeleperformanceMalaysia',
-                instagram: 'https://www.instagram.com/teleperformance_malaysia'
+                facebook: 'https://www.facebook.com/TPinMalaysia',
+                instagram: 'https://www.instagram.com/tpinmalaysia'
             },
             'penang': {
-                facebook: 'https://www.facebook.com/TeleperformanceMalaysia', 
-                instagram: 'https://www.instagram.com/teleperformance_malaysia'
+                facebook: 'https://www.facebook.com/TPinMalaysia',
+                instagram: 'https://www.instagram.com/tpinmalaysia'
             },
             'bangkok': {
-                facebook: 'https://www.facebook.com/TeleperformanceThailand',
-                instagram: 'https://www.instagram.com/teleperformance_thailand'
+                facebook: 'https://www.facebook.com/TPinThailand',
+                instagram: 'https://www.instagram.com/tpinthailand'
             },
             'default': {
-                facebook: 'https://www.facebook.com/Teleperformance',
-                instagram: 'https://www.instagram.com/teleperformance_global'
+                facebook: 'https://www.facebook.com/TPinMalaysia',
+                instagram: 'https://www.instagram.com/tpinmalaysia'
             }
         };
 
